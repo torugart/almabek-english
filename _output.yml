@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    sharing: null
+    toc:
+      before: |
+        <li><a href="./">Learn English with Almabek</a></li>
+      after: |
+        <li><a href="https://www.youtube.com/channel/UCH2SMAj1LNtRkLb0us82uwg" target="blank">YouTube Kаналым</a></li>
